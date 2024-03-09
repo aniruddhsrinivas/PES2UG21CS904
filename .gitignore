@@ -1,0 +1,17 @@
+# .gitignore
+
+# Exclude Windows user-specific directories
+AppData/
+Local/
+Roaming/
+History/
+Microsoft/
+
+# Exclude VirtualBox files
+.VirtualBox/
+
+# Exclude Android Studio files
+.android/
+
+# Exclude other unwanted directories or files
+OtherDirectory/
